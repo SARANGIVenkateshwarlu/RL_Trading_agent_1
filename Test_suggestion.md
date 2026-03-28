@@ -1,5 +1,7 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
+Link: https://www.youtube.com/watch?v=oW4hgB1vIoY
+
 # summarize comments in markdown.md  with suggestions, ideas, improvements step by step details to add project development
 
 ```markdown
